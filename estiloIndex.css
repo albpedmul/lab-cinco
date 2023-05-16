@@ -1,5 +1,5 @@
 body {
-    background-color: #FFFACD;
+    background-image: linear-gradient(160deg, #c3e2d9 0, #c2e2dd 5.56%, #c0e2e0 11.11%, #c0e2e3 16.67%, #c0e2e6 22.22%, #c0e2e8 27.78%, #c1e1eb 33.33%, #c2e0ed 38.89%, #c4e0ef 44.44%, #c7dff0 50%, #cadef1 55.56%, #cdddf2 61.11%, #d1dcf2 66.67%, #d4dbf2 72.22%, #d8daf1 77.78%, #dcd9f0 83.33%, #e0d8ee 88.89%, #e3d7ec 94.44%, #e7d6ea 100%);
 	display: flex;
   	justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@ form {
 }
 
 #bloco {
-	background-image: radial-gradient(circle at 80.22% 50%, #c3f3ff 0, #bee4fa 50%, #b8d5e7 100%);
+	background-image: #bee4fa;
 	display: flex;
     flex-direction: column;
     align-items: center;
